@@ -1,3 +1,4 @@
+개발요정 🧚‍♀️
 
 👋 Hi there! I'm Shipbuilding & Marine Engineer.🌅   
 Now, I am conducting research on autonomous ships in korea.
@@ -16,3 +17,4 @@ I hope to develop every beautiful things. ✨
 ## 🕹Tools
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/github-F05032?style=flat-square&logo=git&logoColor=white"/>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BaekSophie&show_icons=true&theme=solarized-light)
