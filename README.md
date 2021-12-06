@@ -2,7 +2,7 @@
 👋 Hi there! I'm Shipbuilding & Marine Engineer.🌅   
 Now, I am conducting research on autonomous ships in korea.
 
-I enjoy making pottery and working out. �👟   
+I enjoy making pottery and working out.⛲👟   
 Also. I'm interested in small and precious things.💞   
 I hope to develop every beautiful things. ✨
 
@@ -15,3 +15,4 @@ I hope to develop every beautiful things. ✨
 
 ## 🕹Tools
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/github-F05032?style=flat-square&logo=git&logoColor=white"/>
+
