@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=F8E2CF&height=300&section=header&text=soyeon's%20profile&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=F7EFE9&height=300&section=header&text=soyeon's%20profile&fontSize=90)
 
 
 <div align=center> 👋 Hi there! I'm Soyeon Baek Who is Shipbuilding & Marine Engineer.🌅 </div>    
