@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=soyeon's%20profile&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=F8E2CF&height=300&section=header&text=soyeon's%20profile&fontSize=90)
 
 
 <div align=center> 👋 Hi there! I'm Soyeon Baek Who is Shipbuilding & Marine Engineer.🌅 </div>    
@@ -22,7 +22,7 @@
 <br/>
 
 ## <div align=center> 🕹 Tools 🕹</div> 
-<div align=center> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/github-F05032?style=flat-square&logo=git&logoColor=white"/> </div> 
+<div align=center> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"/> </div> 
 
 <br/>
 
