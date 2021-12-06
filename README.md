@@ -17,4 +17,5 @@ I hope to develop every beautiful things. ✨
 ## 🕹Tools
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/github-F05032?style=flat-square&logo=git&logoColor=white"/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BaekSophie&show_icons=true&theme=solarized-light)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BaekSophie&show_icons=true&theme=vue )
+[![BaekSophie's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BaekSophie&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/BaekSophie)
