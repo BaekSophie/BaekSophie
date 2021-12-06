@@ -16,15 +16,23 @@
 
 <br/>
 
-## 💫 Skills   
-### Platforms & Languages   
-<img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/>
+## <div align=center> 💫 Skills 💫</div> 
+<div align=center> <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/> <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=CSharp&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/MicrosoftAccess-A4373A?style=flat-square&logo=MicrosoftAccess&logoColor=white"/> </div> 
+ 
+<br/>
 
-<img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=CSharp&logoColor=white"/>
+## <div align=center> 🕹 Tools 🕹</div> 
+<div align=center> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/github-F05032?style=flat-square&logo=git&logoColor=white"/> </div> 
 
-## 🕹 Tools
-<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/github-F05032?style=flat-square&logo=git&logoColor=white"/>
+<br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BaekSophie&show_icons=true&theme=buefy )![BaekSophie's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BaekSophie&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)
+## <div align=center> 🍒 Me 🍒 </div> 
+<div align=center> <img src="https://img.shields.io/badge/Intagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/> </div> 
+
+
+<br/>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BaekSophie&show_icons=true&theme=swift)![BaekSophie's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BaekSophie&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)
+
 
 
